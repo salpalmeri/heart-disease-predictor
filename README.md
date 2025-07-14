@@ -66,10 +66,10 @@ All models were trained with:
 
 | Model              | Accuracy | Precision | Recall | F1 Score |
 |-------------------|----------|-----------|--------|----------|
-| Logistic Regression | ~0.858 | ~0.858   | ~0.858 | ~0.858   |
-| KNN                | ~0.873  | ~0.873   | ~0.873 | ~0.873   |
-| SVM                | ~0.870  | ~0.870   | ~0.870 | ~0.870   |
-| Decision Tree      | ~0.80   | ~0.80    | ~0.80  | ~0.80    |
-| Random Forest      | ~0.85   | ~0.85    | ~0.85  | ~0.85    |
+| Logistic Regression | ~0.86 | ~0.86   | ~0.86 | ~0.86   |
+| KNN                | ~0.87  | ~0.87   | ~0.87 | ~0.87   |
+| SVM                | ~0.86  | ~0.86   | ~0.86 | ~0.86   |
+| Decision Tree      | ~0.82  | ~0.82   | ~0.82 | ~0.82   |
+| Random Forest      | ~0.85  | ~0.85   | ~0.85 | ~0.85   |
 
 > KNN showed the best overall performance, balancing speed and predictive accuracy. 
